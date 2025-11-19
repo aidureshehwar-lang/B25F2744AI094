@@ -1,0 +1,39 @@
+Here are short notes on Git and GitHub:
+---
+🟦 Git
+Git is a version control system used to track changes in source code during software development. It allows multiple developers to work on a project at the same time without interfering with each other’s work.
+Key Points:
+Created by Linus Torvalds in 2005.
+Helps keep a history of code changes.
+Allowhjhjs developers to commit, merge, and branch code.
+Works offline, because the repository is stored on your local computer.
+Useful for managing projects of any size.
+---
+
+ GitHub
+
+GitHub is a web-based platform that uses Git for version control and provides a space to store and manage Git repositories online.
+
+Key Points:
+
+Owned by Microsoft.
+
+Allows developers to upload (push) their Git repositories to the internet.
+
+Supports collaboration through pull requests, issues, and project boards.
+
+Makes teamwork easier by letting people review and contribute to each other’s code.
+
+Also used for hosting open-source projects.
+
+
+
+---
+
+Difference (in simple words):
+
+Git	GitHub
+
+A tool installed on your computer for version control.	A website/platform to store and share Git repositories.
+Works offline.	Works online (internet required).
+Manages code history.	Helps in collaboration and remote sharing
