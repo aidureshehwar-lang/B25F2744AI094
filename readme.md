@@ -6,3 +6,7 @@ Navigate to the main page of the repository.
 Click on "Issues" or "Pull requests."
 Above the list, locate the "Sort" dropdown menu and select the desired sorting method (e.g., "Newest," "Oldest," "Most commented," "Least commented").
 Comments within Issues/Pull Requests:
+
+
+
+Adding 2 lines Modifying 
